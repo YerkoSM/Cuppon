@@ -1,0 +1,30 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Roboto", sans-serif;
+
+}
+
+.bg-verde {
+    background-color: #28A745;
+}
+
+.bg-blanco {
+    background-color: #ffffff;
+}
+
+.text-desc {
+    font-size: 0.8rem;
+}
+
+.txt-no {
+    text-decoration: none;
+}
+
+.img-footer {
+    width: 25%;
+}
+
+.txt-copy {
+    font-size: 1.3rem;
+}
